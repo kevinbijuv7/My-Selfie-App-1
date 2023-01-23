@@ -1,0 +1,26 @@
+.copy_right_footer
+{
+    position: fixed;
+    color:white;
+    bottom:0;
+    width:100%;
+    background-color: rgb(163, 163, 163);
+    line-height: 3;
+    text-align: center
+
+}
+body{
+    background:linear-gradient(red, yellow);
+}
+.div{
+    color:white
+}
+.one{
+    size: 50px;
+}
+.two{
+    size: 50px;
+}
+.three{
+    size: 50px;
+}
